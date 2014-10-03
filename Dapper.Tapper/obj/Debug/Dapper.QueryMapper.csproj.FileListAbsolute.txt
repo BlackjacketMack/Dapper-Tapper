@@ -1,0 +1,8 @@
+C:\Dropbox\Projects\GitHub\ForkedRepos\dapper-dot-net\Dapper.QueryMapper\bin\Debug\Dapper.QueryMapper.dll
+C:\Dropbox\Projects\GitHub\ForkedRepos\dapper-dot-net\Dapper.QueryMapper\bin\Debug\Dapper.QueryMapper.pdb
+C:\Dropbox\Projects\GitHub\ForkedRepos\dapper-dot-net\Dapper.QueryMapper\bin\Debug\Dapper.dll
+C:\Dropbox\Projects\GitHub\ForkedRepos\dapper-dot-net\Dapper.QueryMapper\bin\Debug\Dapper.pdb
+C:\Dropbox\Projects\GitHub\ForkedRepos\dapper-dot-net\Dapper.QueryMapper\bin\Debug\Dapper.xml
+C:\Dropbox\Projects\GitHub\ForkedRepos\dapper-dot-net\Dapper.QueryMapper\obj\Debug\Dapper.QueryMapper.csprojResolveAssemblyReference.cache
+C:\Dropbox\Projects\GitHub\ForkedRepos\dapper-dot-net\Dapper.QueryMapper\obj\Debug\Dapper.QueryMapper.dll
+C:\Dropbox\Projects\GitHub\ForkedRepos\dapper-dot-net\Dapper.QueryMapper\obj\Debug\Dapper.QueryMapper.pdb

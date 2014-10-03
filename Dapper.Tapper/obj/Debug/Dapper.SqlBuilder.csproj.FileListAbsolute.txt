@@ -1,0 +1,8 @@
+C:\Dropbox\Projects\GitHub\ForkedRepos\dapper-dot-net\Dapper.SqlBuilder\bin\Debug\Dapper.SqlBuilder.dll
+C:\Dropbox\Projects\GitHub\ForkedRepos\dapper-dot-net\Dapper.SqlBuilder\bin\Debug\Dapper.SqlBuilder.pdb
+C:\Dropbox\Projects\GitHub\ForkedRepos\dapper-dot-net\Dapper.SqlBuilder\bin\Debug\Dapper.dll
+C:\Dropbox\Projects\GitHub\ForkedRepos\dapper-dot-net\Dapper.SqlBuilder\bin\Debug\Dapper.pdb
+C:\Dropbox\Projects\GitHub\ForkedRepos\dapper-dot-net\Dapper.SqlBuilder\bin\Debug\Dapper.xml
+C:\Dropbox\Projects\GitHub\ForkedRepos\dapper-dot-net\Dapper.SqlBuilder\obj\Debug\Dapper.SqlBuilder.csprojResolveAssemblyReference.cache
+C:\Dropbox\Projects\GitHub\ForkedRepos\dapper-dot-net\Dapper.SqlBuilder\obj\Debug\Dapper.SqlBuilder.dll
+C:\Dropbox\Projects\GitHub\ForkedRepos\dapper-dot-net\Dapper.SqlBuilder\obj\Debug\Dapper.SqlBuilder.pdb

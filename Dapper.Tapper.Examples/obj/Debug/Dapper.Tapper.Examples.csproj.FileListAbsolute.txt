@@ -1,0 +1,10 @@
+C:\Dropbox\Projects\GitHub\MyRepos\Dapper-Tapper\Dapper.Tapper.Examples\bin\Debug\Dapper.Tapper.Examples.dll
+C:\Dropbox\Projects\GitHub\MyRepos\Dapper-Tapper\Dapper.Tapper.Examples\bin\Debug\Dapper.Tapper.Examples.pdb
+C:\Dropbox\Projects\GitHub\MyRepos\Dapper-Tapper\Dapper.Tapper.Examples\bin\Debug\Dapper.QueryMapper.dll
+C:\Dropbox\Projects\GitHub\MyRepos\Dapper-Tapper\Dapper.Tapper.Examples\bin\Debug\Dapper.dll
+C:\Dropbox\Projects\GitHub\MyRepos\Dapper-Tapper\Dapper.Tapper.Examples\bin\Debug\Dapper.QueryMapper.pdb
+C:\Dropbox\Projects\GitHub\MyRepos\Dapper-Tapper\Dapper.Tapper.Examples\bin\Debug\Dapper.pdb
+C:\Dropbox\Projects\GitHub\MyRepos\Dapper-Tapper\Dapper.Tapper.Examples\bin\Debug\Dapper.xml
+C:\Dropbox\Projects\GitHub\MyRepos\Dapper-Tapper\Dapper.Tapper.Examples\obj\Debug\Dapper.Tapper.Examples.csprojResolveAssemblyReference.cache
+C:\Dropbox\Projects\GitHub\MyRepos\Dapper-Tapper\Dapper.Tapper.Examples\obj\Debug\Dapper.Tapper.Examples.dll
+C:\Dropbox\Projects\GitHub\MyRepos\Dapper-Tapper\Dapper.Tapper.Examples\obj\Debug\Dapper.Tapper.Examples.pdb
